@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1604871608385,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/5.e7bc6d500b816d3df930.js",
+        "/6.d5c415dccb12a238c9ea.js",
+        "/7.3d2167f6eb5326ee2ae4.js",
+        "/common.8d0884d2bf4e31aa59a2.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.ce0aebf4b4b5cbaba4ce.js",
+        "/manifest.webmanifest",
+        "/polyfills.d31e5be32dc55fb3fb3e.js",
+        "/runtime.87334675f6836850e7ca.js",
+        "/styles.ba95cb182abfceb8752e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/medhost-logo-blue_poster.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/5.e7bc6d500b816d3df930.js": "4ef3ea77131667cc96918c7d09e4822f5a2c7cb3",
+    "/6.d5c415dccb12a238c9ea.js": "894cbe9bc989e70bec19fbba844373ca4b8eed89",
+    "/7.3d2167f6eb5326ee2ae4.js": "04d21d544f0f1e07b20120e338d13aa642b621af",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "09c9e7aba4f887accdcf2d86ea4b5421294911d0",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/medhost-logo-blue_poster.png": "aac6731ac559406826698350848a54505cdbf4d4",
+    "/common.8d0884d2bf4e31aa59a2.js": "8d60aa01d8c36dc2e55ec5e55db8f3b7fff0447a",
+    "/favicon.ico": "382bf6e37cb6b8ad01749af54eb8940e410b7c11",
+    "/index.html": "71453f68ba99725c5d0fb07995c8af9afe15ef32",
+    "/main.ce0aebf4b4b5cbaba4ce.js": "2427bae028cde0153f9cae9b387198b9aa06f10d",
+    "/manifest.webmanifest": "125baa81c6df9daecdf06d214e6b41af44b11bd9",
+    "/polyfills.d31e5be32dc55fb3fb3e.js": "dcb6ded189378fbef8dd20ab250de70902b35ec7",
+    "/runtime.87334675f6836850e7ca.js": "7a38173e7c105fe5e2152a7f012f0a6a2e50bf9c",
+    "/styles.ba95cb182abfceb8752e.css": "090a57cf6ad8a58d48a275849206e9af03a10ffd"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
