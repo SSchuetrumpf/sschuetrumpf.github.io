@@ -2,7 +2,7 @@ export default [
   {
     username: 'nurse',
     password: 1234,
-    userid: 1,
+    userid: 2115,
     lastName: 'doe',
     firstName: 'jane',
     url: ''
@@ -10,7 +10,7 @@ export default [
   {
     username: 'assistant',
     password: 1234,
-    userid: 2,
+    userid: 1211,
     lastName: 'doh',
     firstName: 'john',
     url: ''

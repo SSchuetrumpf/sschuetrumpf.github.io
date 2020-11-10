@@ -1,18 +1,18 @@
 export default [
   {
-    userId: 1,
-    nursingStationId: 'ICU'
+    userId: 2115,
+    nursingStationId: 'PEDS'
   },
   {
-    userId: 1,
+    userId: 2115,
     nursingStationId: 'EMR'
   },
   {
-    userId: 1,
+    userId: 2115,
     nursingStationId: 'SURG'
   },
   {
     userId: 2,
-    nursingStationId: 'PEDS'
+    nursingStationId: 'SURG'
   }
 ];

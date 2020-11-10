@@ -2,25 +2,16 @@ export default [
   {
     lastName: 'Brown',
     firstName: 'Rick',
-    encounterId: 1,
-    nursingStationId: 'SURG',
+    encounterId: 5261153,
+    nursingStationId: 'EMR',
     room: '7',
     bed: 'A',
     url: 'https://www.medhost.com/wp-content/uploads/2019/02/rick-brown-exec-circle.png'
   },
   {
-    lastName: 'Holman',
-    firstName: 'Stacey',
-    encounterId: 2,
-    nursingStationId: 'SURG',
-    room: '8',
-    bed: 'A',
-    url: 'https://www.medhost.com/wp-content/uploads/2019/09/Stacey-Holman-headshot-circle.png'
-  },
-  {
     lastName: 'Anderson',
     firstName: 'Bill',
-    encounterId: 3,
+    encounterId: 4005507,
     nursingStationId: 'PEDS',
     room: '3',
     bed: 'A',
@@ -29,8 +20,8 @@ export default [
   {
     lastName: 'Misch',
     firstName: 'Ken',
-    encounterId: 4,
-    nursingStationId: 'ICU',
+    encounterId: 4005508,
+    nursingStationId: 'SURG',
     room: '5',
     bed: 'A',
     url: 'https://www.medhost.com/wp-content/uploads/2019/07/Ken-Misch-photo-president-cfo-web.png'
@@ -38,10 +29,19 @@ export default [
   {
     lastName: 'Redmon',
     firstName: 'Todd',
-    encounterId: 5,
-    nursingStationId: 'EMR',
-    room: '1',
-    bed: 'A',
+    encounterId: 4005509,
+    nursingStationId: 'SURG',
+    room: '5',
+    bed: 'B',
     url: 'https://www.medhost.com/wp-content/uploads/2018/04/redmon-circle.jpg'
-  }
+  },
+  {
+    lastName: 'Holman',
+    firstName: 'Stacey',
+    encounterId: 4005510,
+    nursingStationId: 'SURG',
+    room: '9',
+    bed: 'A',
+    url: 'https://www.medhost.com/wp-content/uploads/2019/09/Stacey-Holman-headshot-circle.png'
+  },
 ];
