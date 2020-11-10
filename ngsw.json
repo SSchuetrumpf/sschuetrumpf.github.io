@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1604992065203,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/2.d48e6a22f9ba00c333c6.js",
+        "/6.045e8098646f252a31e8.js",
+        "/7.90288cf723a547108eb1.js",
+        "/8.551e77f49037ad11202a.js",
+        "/9.67cbf12f1cd99740e0a3.js",
+        "/common.fa95daabc83f269237fd.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.8288deacfbe4bf0957db.js",
+        "/manifest.webmanifest",
+        "/polyfills.8456b03b9e12a1d468e8.js",
+        "/runtime.ed67095e4997d75032f4.js",
+        "/styles.7318eed7d3c963707f5a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/database/labCollection.ts",
+        "/assets/database/labOrder.ts",
+        "/assets/database/nursingStation.ts",
+        "/assets/database/patient.ts",
+        "/assets/database/user.ts",
+        "/assets/icons/icon-192x192.png",
+        "/assets/medhost-logo-blue_poster.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/2.d48e6a22f9ba00c333c6.js": "2e8e60f1d3b2e2549561f925e06eab707ea1a262",
+    "/6.045e8098646f252a31e8.js": "5bde99e64e9eb8b7287ad014b5eb35aaac65caf2",
+    "/7.90288cf723a547108eb1.js": "b9c7a9f4d22a2527b79f281e49e3a1e1b786da82",
+    "/8.551e77f49037ad11202a.js": "a042b1141dfd64e9c611208162a91bcb72014911",
+    "/9.67cbf12f1cd99740e0a3.js": "9c26a1a71021dbbd341cb3ac577ffcec20835900",
+    "/assets/database/labCollection.ts": "9889ded0d1fa13d05c5ef5e9fb6d362e001ee3ae",
+    "/assets/database/labOrder.ts": "3d8170d64c362cdb5a3714a11cbe5f61ebea8909",
+    "/assets/database/nursingStation.ts": "288fd581b087355462bc41356c2260249419aa7b",
+    "/assets/database/patient.ts": "d7c671eabc9fb12ccabb800462b71a07ecfa1c34",
+    "/assets/database/user.ts": "fdf4cbc65d54e929b3e74e879732019cd9a44222",
+    "/assets/icons/icon-192x192.png": "09c9e7aba4f887accdcf2d86ea4b5421294911d0",
+    "/assets/medhost-logo-blue_poster.png": "aac6731ac559406826698350848a54505cdbf4d4",
+    "/common.fa95daabc83f269237fd.js": "59b2792fa4555340e981fd35beba848e36ca0bd4",
+    "/favicon.ico": "382bf6e37cb6b8ad01749af54eb8940e410b7c11",
+    "/index.html": "cc409bad0d1f05f5cafe9aba906864c68055a2e9",
+    "/main.8288deacfbe4bf0957db.js": "c63426ef97165c2f75978c3d212a1409f6bb7a46",
+    "/manifest.webmanifest": "72cfe44494fffb1bd81e230aa8682e18b2be89ea",
+    "/polyfills.8456b03b9e12a1d468e8.js": "2dcfebbcebb2ac3b3ffca5ed0b4062735c4d8c83",
+    "/runtime.ed67095e4997d75032f4.js": "7d7d63f7c4c04df345c6cd5cfb588a9fad9ef6a5",
+    "/styles.7318eed7d3c963707f5a.css": "9eec7173fd04d6aad83a2389df51b9ba57cba24a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
