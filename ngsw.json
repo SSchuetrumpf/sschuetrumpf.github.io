@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604872151844,
+  "timestamp": 1604981102489,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,17 +11,19 @@
         "ignoreVary": true
       },
       "urls": [
-        "/5.e7bc6d500b816d3df930.js",
-        "/6.d5c415dccb12a238c9ea.js",
-        "/7.3d2167f6eb5326ee2ae4.js",
-        "/common.8d0884d2bf4e31aa59a2.js",
+        "/2.e24188fa7c0f22f2f836.js",
+        "/6.4d92611c5b980b6f9c42.js",
+        "/7.41b918525132ca3fafd5.js",
+        "/8.0e2cdc6b70382a224c90.js",
+        "/9.f5e8456a712d4f471904.js",
+        "/common.a82c1b622a874c99270f.js",
         "/favicon.ico",
         "/index.html",
-        "/main.ce0aebf4b4b5cbaba4ce.js",
+        "/main.a95cc1e1d4fa4c13b233.js",
         "/manifest.webmanifest",
-        "/polyfills.d31e5be32dc55fb3fb3e.js",
-        "/runtime.87334675f6836850e7ca.js",
-        "/styles.ba95cb182abfceb8752e.css"
+        "/polyfills.8456b03b9e12a1d468e8.js",
+        "/runtime.31b7ec07a23f74089652.js",
+        "/styles.9fc085aa8c1a249deb82.css"
       ],
       "patterns": []
     },
@@ -33,6 +35,11 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/database/labCollection.ts",
+        "/assets/database/labOrder.ts",
+        "/assets/database/nursingStation.ts",
+        "/assets/database/patient.ts",
+        "/assets/database/user.ts",
         "/assets/icons/icon-192x192.png",
         "/assets/medhost-logo-blue_poster.png"
       ],
@@ -41,19 +48,26 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/5.e7bc6d500b816d3df930.js": "4ef3ea77131667cc96918c7d09e4822f5a2c7cb3",
-    "/6.d5c415dccb12a238c9ea.js": "894cbe9bc989e70bec19fbba844373ca4b8eed89",
-    "/7.3d2167f6eb5326ee2ae4.js": "04d21d544f0f1e07b20120e338d13aa642b621af",
+    "/2.e24188fa7c0f22f2f836.js": "42aa735971382c79081edfebbd5df0a667a40315",
+    "/6.4d92611c5b980b6f9c42.js": "10739200168b565ef44faca0599ad75aeb249f37",
+    "/7.41b918525132ca3fafd5.js": "070435ea94f921a9f477c6b0c264974a0d7b0cb7",
+    "/8.0e2cdc6b70382a224c90.js": "336bbc05cf405995eadefbc4980f5cae6c074560",
+    "/9.f5e8456a712d4f471904.js": "7f3c60f003caa812331fd3d752937dd9ec000b4b",
+    "/assets/database/labCollection.ts": "255e9430cbd94c2e6f261556646c622aa9e2aa43",
+    "/assets/database/labOrder.ts": "c1d3f8b0ee476c207fdff4deb34ab29b7e40140f",
+    "/assets/database/nursingStation.ts": "5d69db54ee8382f7dee771605ad2b41f4937c1b9",
+    "/assets/database/patient.ts": "a3f20894a05e246ada559562d24b8ed690d6438b",
+    "/assets/database/user.ts": "cb9bd3ea4c889369fd586fba84be05205b792efb",
     "/assets/icons/icon-192x192.png": "09c9e7aba4f887accdcf2d86ea4b5421294911d0",
     "/assets/medhost-logo-blue_poster.png": "aac6731ac559406826698350848a54505cdbf4d4",
-    "/common.8d0884d2bf4e31aa59a2.js": "8d60aa01d8c36dc2e55ec5e55db8f3b7fff0447a",
+    "/common.a82c1b622a874c99270f.js": "974e7c75a1a57ef4077a8c012990d13f1fb9372a",
     "/favicon.ico": "382bf6e37cb6b8ad01749af54eb8940e410b7c11",
-    "/index.html": "71453f68ba99725c5d0fb07995c8af9afe15ef32",
-    "/main.ce0aebf4b4b5cbaba4ce.js": "2427bae028cde0153f9cae9b387198b9aa06f10d",
-    "/manifest.webmanifest": "125baa81c6df9daecdf06d214e6b41af44b11bd9",
-    "/polyfills.d31e5be32dc55fb3fb3e.js": "dcb6ded189378fbef8dd20ab250de70902b35ec7",
-    "/runtime.87334675f6836850e7ca.js": "7a38173e7c105fe5e2152a7f012f0a6a2e50bf9c",
-    "/styles.ba95cb182abfceb8752e.css": "090a57cf6ad8a58d48a275849206e9af03a10ffd"
+    "/index.html": "688e86e3199e021738219ab9a892d7980a4d4b56",
+    "/main.a95cc1e1d4fa4c13b233.js": "39353bfeec1fc3e8346d0b7556a9e2b7de16366b",
+    "/manifest.webmanifest": "72cfe44494fffb1bd81e230aa8682e18b2be89ea",
+    "/polyfills.8456b03b9e12a1d468e8.js": "2dcfebbcebb2ac3b3ffca5ed0b4062735c4d8c83",
+    "/runtime.31b7ec07a23f74089652.js": "31c7689ab7854ce2130eece33a7e1267581700cd",
+    "/styles.9fc085aa8c1a249deb82.css": "66d9d14409eb2de1b3e903865b8f6d466032b730"
   },
   "navigationUrls": [
     {
